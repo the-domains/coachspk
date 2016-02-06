@@ -1,5 +1,8 @@
-title: Social Media Strategy+Playbook
-purpose: []
+name: Coachspk
+favicon: null
+layout_spectrum: 0
+typography_spectrum: 0.2956989
+title: Coachspk
 collections:
   - index:
       path: /
@@ -12,26 +15,23 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-color:
-  saturation: 0
-  brandStrength: 1
-  lightness: 0
-  brandColors:
-    - '#000000'
-  rhythmicContrast: 1
 cta:
+  domain: null
   bucket: null
   version: null
-  domain: null
 analytics:
-  twitter: null
   google: null
   facebook: null
-favicon: null
-name: Coachspk
+  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
-typography_spectrum: 0.2956989
-layout_spectrum: 0
+color:
+  brandColors:
+    - '#000000'
+  brandStrength: 1
+  lightness: 0
+  saturation: 0
+  rhythmicContrast: 1
+purpose: []
