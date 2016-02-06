@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Coachspk]]></title>
-        <description><![CDATA[Coachspk]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Social Media Strategy+Playbook]]></title>
+        <description><![CDATA[Social Media Strategy+Playbook]]></description>
+        <link>https://thegrid.ai/coachspk/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 05 Feb 2016 16:32:01 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 06 Feb 2016 12:30:53 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/coachspk/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/be1a4b58-548d-4c8d-a19d-57370f330f69.JPEG">]]></description>
+            <link>https://thegrid.ai/coachspk/caf5f199-9ca0-4e14-8239-0bb7ec7cee38/index.html</link>
+            <guid isPermaLink="false">caf5f199-9ca0-4e14-8239-0bb7ec7cee38</guid>
+            <pubDate>Sat, 06 Feb 2016 12:30:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/74ba7c60-9021-4b21-9bad-58467e0f74e2.jpg">]]></description>
-            <link>undefinedc9414022-e240-4ce1-b8f5-3438ac72f643/index.html</link>
+            <link>https://thegrid.ai/coachspk/c9414022-e240-4ce1-b8f5-3438ac72f643/index.html</link>
             <guid isPermaLink="false">c9414022-e240-4ce1-b8f5-3438ac72f643</guid>
             <pubDate>Fri, 05 Feb 2016 16:32:00 GMT</pubDate>
         </item>
