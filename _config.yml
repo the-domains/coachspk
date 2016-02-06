@@ -1,37 +1,37 @@
-name: Coachspk
-favicon: null
-layout_spectrum: 0.2706093
-typography_spectrum: 0.2956989
+title: Social Media Strategy+Playbook
+purpose: []
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-title: Social Media Strategy+Playbook
+    permalink:
+      path: '/:title/'
+color:
+  saturation: 0.7544802
+  brandStrength: 0.242614
+  lightness: 0.7855436
+  brandColors:
+    - '#000000'
+  rhythmicContrast: 1
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
+favicon: null
+name: Coachspk
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#000000'
-  brandStrength: 0.242614
-  lightness: 0.360215
-  saturation: 0
-  rhythmicContrast: 1
-purpose: []
+typography_spectrum: 0.2956989
+layout_spectrum: 1
